@@ -2,3 +2,4 @@ import { square, diag } from './aboutExport';
 console.log(square(11));
 console.log(square(4,3));
 console.log('chuchuwen')
+console.log('全局变量')
